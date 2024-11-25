@@ -6,7 +6,7 @@
 <p>I also have a security background including hands-on experience as a security analyst and engineer. I enjoy tackling tech and operational challenges while keeping things compliant with security standards like PCI DSS and ISO 27001.</p>
 <p>Beyond coding, I love to write. I've published a couple of research papers and hold two copyrights in authentication method research. My motto, "Agul ku Payung Alus," drives me to deliver top-notch work on every project.</p>
 <ul>
-  <li><a href="https://linkedin.com/in/FaizRahiemy" target="_blank" rel="noopener">&nbsp;Visit my Linkedin</a></li>
-  <li><a href="https://twitter.com/FaizRahiemy" target="_blank" rel="noopener"> Follow my Twitter</a></li>
-  <li><a href="https://instagram.com/FaizRahiemy" target="_blank" rel="noopener"> Follow my Instagram</a></li>
+  <li><a href="https://linkedin.com/in/FaizRahiemy" target="_blank" rel="noopener">Visit my Linkedin</a></li>
+  <li><a href="https://twitter.com/FaizRahiemy" target="_blank" rel="noopener">Follow my Twitter</a></li>
+  <li><a href="https://instagram.com/FaizRahiemy" target="_blank" rel="noopener">Follow my Instagram</a></li>
 </ul>
