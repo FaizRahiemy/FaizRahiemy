@@ -1,7 +1,7 @@
 <h1 align="center">ᮖᮄᮐ᮪ ᮛᮠᮤᮈᮙ᮪ᮚ᮪</h1>
 <p><img align="right" src="https://lh3.googleusercontent.com/pw/AP1GczM11rQu5UVK9bBwoQI5RlKAUm4B4GtY0QvfKedZwTqfDkXrLTo9mIWC2v8kD5ZIKz5mvvUYR76_Vo30BS9g09b9LzHl3MG-fHdgHj7Ky8aDfKYA38iLfEYYnXSWayabRJlVPpyiV_Q0TeqT-4J1a8_m1w=w500-h707-s-no-gm?authuser=0" alt="Faiz Rahiemy in cartoon format" width="212" height="300"></p>
 <p>Sampurasun! I’m Faiz 👋🏽</p>
-<p>I started with computers by clicking random things as a five-year-old kid, deleting Windows files I shouldn’t have and wondering why games suddenly stopped working. Somehow, that turned into writing code, playing with servers, and caring about security.</p>
+<p>I started with computers by clicking random things as a five-year-old kid, deleting Windows files I shouldn't have and wondering why games suddenly stopped working. Somehow, that turned into writing code, playing with servers, and caring about security.</p>
 <p>I'm <s>still</s> always learning. Through random side projects and keep redesigning my own notebook again and again, or even by picking up new foreign words in the supermarket and discovering unique topics on Wikipedia. All of that said, I don&rsquo;t try to be a tech person. I'm just a curious human who happens to work with tech and enjoys understanding things deeply.</p>
 <p>Along the way, I like to write about my journey, partly so future-me doesn't forget, and hopefully so others can learn from it too. My motto, "Agul ku Payung Alus," reminds me to do things properly and with care. If I'm building something, I'd rather make it meaningful.</p>
 <p>I'm not chronically online, but I can usually be found at:</p>
